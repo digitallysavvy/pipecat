@@ -79,6 +79,7 @@ autodoc_mock_imports = [
     "pydantic.Field",
     "pydantic._internal._model_construction",
     "pydantic._internal._fields",
+    "agora-realtime-ai-api",
 ]
 
 # HTML output settings
